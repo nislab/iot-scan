@@ -50,7 +50,7 @@ As such, we view the data in this repository to be free of any conceivable real-
 
 These materials may be freely used and distributed, provided that attribution to this original source is acknowledged. If you use the data in this repository, we kindly ask that you refer to the following work:
 
-<insert reference for lab report… later replace with reference to preferred full publication>
+Stefan Gvozdenovic, Johannes K Becker, John Mikulskis, and David Starobinski, "Multi-Protocol IoT Network Reconnaissance," *10th annual IEEE Conference on Communications and Network Security (IEEE CNS) 2022*, Austin, TX, October 2022.
 
 ## References
 
