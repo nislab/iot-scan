@@ -56,6 +56,6 @@ Stefan Gvozdenovic, Johannes K Becker, John Mikulskis, and David Starobinski, "M
 
 To our knowledge, these traces have been used by the following works:
 
-<list of publications using these traces… IoT-Scan, multi-monitoring paper, …>
+Johannes K Becker and David Starobinski, "Optimizing Freshness in IoT Scans," *8th IEEE World Forum on Internet of Things (IEEE WF-IoT) 2022*, Yokohama, Japan, November 2022.
 
 If you are using these traces in your work and would like to be featured in this list, kindly create an issue in this repository and provide us with the reference if you would like it to be featured here.
